@@ -10,3 +10,5 @@ trust_hash = "" # Check rpc latest block hash
 trust_period = "168h0m0s"
  ```
  
+ #### Reach Us 
+ - If  you face any issue [Join us on Disord](https://discord.gg/qZ8JJhaQZV).   
